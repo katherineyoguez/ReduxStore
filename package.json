@@ -18,6 +18,8 @@
   },
   "dependencies": {
     "graphql": "^15.5.2",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "react": "^17.0.2",
+    "react-redux": "^7.2.4"
   }
 }
